@@ -1,0 +1,10 @@
+{
+    "Target":  {
+                   "Type":  "Type",
+                   "Date":  "Trans Date",
+                   "Amount":  "Amount",
+                   "ID":  "Reference Number",
+                   "name":  "Merchant Name",
+                   "Memo":  "Description"
+               }
+}
